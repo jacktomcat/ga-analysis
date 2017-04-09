@@ -1,0 +1,1 @@
+create table app_user (id INT,name STRING,password STRING) ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t' STORED AS TEXTFILE;
